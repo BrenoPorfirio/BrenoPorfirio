@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://github.com/BrenoPorfirio/BrenoPorfirio/assets/112186428/8a092dc6-4ad3-4ba3-bd31-eb6ecd500e5e" width="50%"  />
+</p>
 
-<h1 align="left">Hello, I'm Breno. Welcome !!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<p>
+  <h1 align="center">Hello, I'm Breno. Welcome 👋!!</h1>
+</p>
 
 - 👨‍💻 I'm undergraduate student at the Federal University of Rio Grande do Norte
 
