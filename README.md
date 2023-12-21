@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrenoPorfirio/22a7d9eb6ee630f170eb09c813d14a1d/raw/1bf8431792194b7eacaa422777f7422542ff06a8/githubcard.svg"/>
 
 <h1 align="left">Hello, I'm Breno. Welcome !!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
@@ -11,6 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white)
+<br>
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
